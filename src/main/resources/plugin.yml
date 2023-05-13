@@ -1,0 +1,6 @@
+name: Unduping
+version: 1.0.0
+main: dev.josantonius.minecraft.unduping.Main
+api-version: 1.19
+author: Josantonius
+description: Patch for Minecraft version 1.19.3 that prevents players from exploiting the bug of duplicating crops using beds in areas protected by the WorldGuard plugin.
