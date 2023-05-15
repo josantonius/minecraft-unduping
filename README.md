@@ -1,6 +1,5 @@
 # Minecraft Unduping Plugin
 
-[![Release](https://jitpack.io/v/dev.josantonius/minecraft-unduping.svg)](https://jitpack.io/#dev.josantonius/minecraft-unduping)
 [![License](https://img.shields.io/github/license/josantonius/minecraft-unduping)](LICENSE)
 
 Patch for Minecraft version 1.19.3 that prevents players from exploiting the
